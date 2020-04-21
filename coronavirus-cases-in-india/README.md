@@ -4,6 +4,8 @@ The dataset contains Covid-19 patients in India from Jan till 5th April 2020.
 
 The dataset used is available at https://www.kaggle.com/parulpandey/coronavirus-cases-in-india.
 
+This notebook would generate the following visualisations on run time.
+
 # Confirmed cases vs States of India
 ![alt text](https://github.com/abhijithremesh/data-science-portfolio/blob/master/coronavirus-cases-in-india/images/Confirmed%20cases%20vs%20States%20of%20India.png)
 
