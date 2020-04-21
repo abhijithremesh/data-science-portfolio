@@ -1,7 +1,5 @@
 # Exploratory data analysis on 'covid19-in-india'
 
-The dataset contains Covid-19 patients in India from Jan till 5th April 2020.
-
 The dataset used is available at https://www.kaggle.com/sudalairajkumar/covid19-in-india.
 
 # Total Cases vs Age Group
