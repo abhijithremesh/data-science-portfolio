@@ -7,8 +7,11 @@ This notebook would generate the following visualisations on run time.
 # Current Status of COVID patients in India
 ![alt text](https://github.com/abhijithremesh/data-science-portfolio/blob/master/covid19-corona-virus-india-dataset/images/Current%20status%20of%20covid%20patients.png)
 
-# Current Status of COVID patients in India
+# Current Status of reported COVID patients by Gender in India
 ![alt text](https://github.com/abhijithremesh/data-science-portfolio/blob/master/covid19-corona-virus-india-dataset/images/Gender%20trend%20of%20covid%20patients.png)
+
+# Transmission Type of COVID patients in India
+![alt text](https://github.com/abhijithremesh/data-science-portfolio/blob/master/covid19-corona-virus-india-dataset/images/Transmission%20type%20of%20covid%20patients.png)
 
 # State wise COVID stats trend in India
 
