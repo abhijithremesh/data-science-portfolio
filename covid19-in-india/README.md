@@ -1,6 +1,7 @@
 # Exploratory data analysis on 'covid19-in-india'
 
 The dataset used is available at https://www.kaggle.com/sudalairajkumar/covid19-in-india.
+This notebook would generate following visualisations on run time.
 
 # Total Cases vs Age Group
 ![alt text](https://github.com/abhijithremesh/data-science-portfolio/blob/master/covid19-in-india/images/Total%20Cases%20vs%20Age%20Group.png)
